@@ -1,5 +1,7 @@
 #pragma once
 
+#include <vector>
+
 enum class BoardPosition : char {
     TOP_LEFT,
     TOP_MIDDLE,
